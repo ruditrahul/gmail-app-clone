@@ -1,0 +1,9 @@
+.app{
+  height: 100vh;
+  overflow: scroll;
+}
+
+.app_body{
+  display: flex;
+  height: 100vh;
+}
